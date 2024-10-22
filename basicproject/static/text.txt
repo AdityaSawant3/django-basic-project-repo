@@ -1,0 +1,2 @@
+This is static file for test purpose.
+Don't put sensitive files in static folder.
